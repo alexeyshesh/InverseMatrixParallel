@@ -21,3 +21,4 @@ Programs were tested on Moscow State University supercomputers IBM Polus and Blu
 - `matrix_omp.cpp` - решение с использованием библиотеки для параллельных вычислений OpenMP
 - `matrix_mpi.cpp` - решение с использованием библиотеки для параллельных вычислений MPI
 
+Программы были протестированы на суперкомпьютерах МГУ им. Ломоносова IBM Polus и BlueGene. Реузльтаты описаны в файле `results.pdf`.
